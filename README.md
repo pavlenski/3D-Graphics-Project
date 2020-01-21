@@ -10,12 +10,14 @@ This is how it looks from a distance when everything above is combined.
 
 ### Linear water
 
+<p>
 heightnap
 <img align="right" src = "https://github.com/pavlenski/3D-Graphics-Project/blob/master/RAFGL/res/screens/linear_water.png" height="256" width="256">
 
-<p>
+
 maybe its just a bug but io dont see ti
 maybe its just a bug but io dont see ti
 maybe its just a bug but io dont see timaybe its just a bug but io dont see timaybe its just a bug but io dont see tiimaybe its just a bug
 </p>
+
 but io dont see timaybe its just a bug but io dont see tiimaybe its just a bug but io dont see timaybe its just a bug but io dont see tiimaybe its just a bug but io dont see timaybe its just a bug but io dont see tiimaybe its just a bug but io dont see timaybe its just a bug but io dont see ti
