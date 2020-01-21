@@ -973,7 +973,7 @@
 	<GL/glu.h>
 	<vulkan/vulkan.h>
 
-1578438674 d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\include\rafgl.h
+1579443975 d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\include\rafgl.h
 	<string.h>
 	<stdio.h>
 	<math.h>
@@ -1127,7 +1127,7 @@
 	<galactic/texture.h>
 	<rafgl.h>
 
-1577755930 source:d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\src\game\texture.c
+1579617567 source:d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\src\game\texture.c
 	<galactic/texture.h>
 
 1578863383 source:d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\src\game\water.c

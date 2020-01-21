@@ -154,17 +154,17 @@ void main_state_render( GLFWwindow *window, void *args ) {
 
     glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 
-    bind_frame_buffer( reflection_fbo );
-    glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
-    render_set_type( RENDER_REFLECTION );
-    render_terrains( terrains, shader_terrain, sunlight, camera_reflection, cursor, TERRAIN_COUNT );
-    unbind_frame_buffer();
+    // bind_frame_buffer( reflection_fbo );
+    // glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
+    // render_set_type( RENDER_REFLECTION );
+    // render_terrains( terrains, shader_terrain, sunlight, camera_reflection, cursor, TERRAIN_COUNT );
+    // unbind_frame_buffer();
 
-    bind_frame_buffer( refraction_fbo );
-    glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
-    render_set_type( RENDER_REFRACTION );
-    render_terrains( terrains, shader_terrain, sunlight, camera, cursor, TERRAIN_COUNT );
-    unbind_frame_buffer();
+    // bind_frame_buffer( refraction_fbo );
+    // glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
+    // render_set_type( RENDER_REFRACTION );
+    // render_terrains( terrains, shader_terrain, sunlight, camera, cursor, TERRAIN_COUNT );
+    // unbind_frame_buffer();
 
     render_set_type( RENDER_DEFAULT );
     if(r_pressed) glPolygonMode(GL_FRONT_AND_BACK, GL_LINE);
@@ -178,7 +178,7 @@ void main_state_render( GLFWwindow *window, void *args ) {
 
     }
     glPolygonMode(GL_FRONT_AND_BACK, GL_FILL);
-    render_terrains( terrains, shader_terrain, sunlight, camera, cursor, TERRAIN_COUNT );
+    // render_terrains( terrains, shader_terrain, sunlight, camera, cursor, TERRAIN_COUNT );
 
     // glPolygonMode(GL_FRONT_AND_BACK, GL_LINE);
     // render_entities( master_monkey, sunlight, camera, cursor );
