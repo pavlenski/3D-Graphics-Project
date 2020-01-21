@@ -1,6 +1,6 @@
 #include <galactic/texture.h>
 
-#define TEXTURE_LOD_FACTOR -0.5
+#define TEXTURE_LOD_FACTOR -0.4
 
 texture_pack_terrain_t init_terrain_texture_pack( char * tex_path_1 , char * tex_path_2 , char * tex_path_3 , char * tex_path_4 ) {
 
