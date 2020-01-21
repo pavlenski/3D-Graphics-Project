@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "shader.h": "c",
+        "renderer.h": "c",
+        "cursor.h": "c",
+        "game_constants.h": "c",
+        "camera.h": "c",
+        "entity.h": "c",
+        "terrain.h": "c",
+        "loader.h": "c"
+    }
+}

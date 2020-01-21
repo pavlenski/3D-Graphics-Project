@@ -1,0 +1,27 @@
+#ifndef GAME_CONSTANTS_H_INCLUDED
+#define GAME_CONSTANTS_H_INCLUDED
+
+#define RASTER_WIDTH (1280)
+#define RASTER_HEIGHT (720)
+
+#define MONKEY_COUNT 20
+#define TERRAIN_COUNT 1
+#define WATER_COUNT   10
+
+#define SKY_RED   1.0f
+#define SKY_GREEN 1.0f
+#define SKY_BLUE  1.0f
+
+#define RENDER_DEFAULT   0
+#define RENDER_REFLECTION 1
+#define RENDER_REFRACTION 2
+
+#define WATER_Y_OFFSET  -1
+#define WATER_WAVE_SPEED 0.3
+#define WATER_LINEAR     0
+#define WATER_LOW_POLY   1
+
+#define WAVE_SMOOTH 0.0
+#define WAVE_CHAOS  1.0
+
+#endif // GAME_CONSTANTS_H_INCLUDED

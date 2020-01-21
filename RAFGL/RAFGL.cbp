@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="RAFGL" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/RAFGL" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/RAFGL" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-DGLFW_INCLUDE_NONE" />
+			<Add directory="include" />
+		</Compiler>
+		<Linker>
+			<Add library="mingw32" />
+			<Add library="libs/glfw/libglfw3.a" />
+			<Add library="winmm" />
+			<Add library="gdi32" />
+			<Add library="opengl32" />
+		</Linker>
+		<Unit filename="include/galactic/camera.h" />
+		<Unit filename="include/galactic/cursor.h" />
+		<Unit filename="include/galactic/entity.h" />
+		<Unit filename="include/galactic/fbo.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="include/galactic/light.h" />
+		<Unit filename="include/galactic/loader.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="include/galactic/renderer.h" />
+		<Unit filename="include/galactic/shader.h" />
+		<Unit filename="include/galactic/terrain.h" />
+		<Unit filename="include/galactic/texture.h" />
+		<Unit filename="include/galactic/water.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="include/game_constants.h" />
+		<Unit filename="include/main_state.h" />
+		<Unit filename="include/math_3d.h" />
+		<Unit filename="include/rafgl.h" />
+		<Unit filename="include/rafgl_keys.h" />
+		<Unit filename="include/stb_image_write.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/game/camera.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/game/cursor.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/game/entity.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/game/fbo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/game/light.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/game/loader.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/game/renderer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/game/shader.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/game/terrain.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/game/texture.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/game/water.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/glad/glad.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/main_state.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

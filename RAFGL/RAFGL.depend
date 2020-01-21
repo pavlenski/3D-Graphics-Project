@@ -1,0 +1,1163 @@
+# depslib dependency file v1.0
+1576257479 source:d:\raf\2019 - 2020\grafika\projekti\rafgl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<rafgl.h>
+	<game_constants.h>
+	<main_state.h>
+
+1563893648 d:\raf\2019 - 2020\grafika\projekti\rafgl\include\glad\glad.h
+	<KHR/khrplatform.h>
+
+1563893648 d:\raf\2019 - 2020\grafika\projekti\rafgl\include\khr\khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1555373963 d:\raf\2019 - 2020\grafika\projekti\rafgl\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<vulkan/vulkan.h>
+
+1571020569 d:\raf\2019 - 2020\grafika\projekti\rafgl\rafgl.h
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<stb_image.h>
+	"rafgl_keys.h"
+	<stb_image.h>
+
+1563893648 source:d:\raf\2019 - 2020\grafika\projekti\rafgl\src\glad\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1572832674 d:\raf\2019 - 2020\grafika\projekti\rafgl\include\main_state.h
+	<GLFW/glfw3.h>
+	<rafgl.h>
+
+1576257451 source:d:\raf\2019 - 2020\grafika\projekti\rafgl\src\main_state.c
+	<main_state.h>
+	<glad/glad.h>
+	<math.h>
+	<rafgl.h>
+	<game_constants.h>
+
+1569767630 d:\raf\2019 - 2020\grafika\projekti\rafgl\include\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1569781757 d:\raf\2019 - 2020\grafika\projekti\rafgl\rafgl_keys.h
+
+1576253655 d:\raf\2019 - 2020\grafika\projekti\rafgl\include\rafgl.h
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<stb_image.h>
+	<rafgl_keys.h>
+	<math_3d.h>
+	<stb_image.h>
+	<stb_image_write.h>
+
+1569778157 d:\raf\2019 - 2020\grafika\projekti\rafgl\include\rafgl_keys.h
+
+1571528413 d:\raf\2019 - 2020\grafika\projekti\rafgl\include\stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1572833533 d:\raf\2019 - 2020\grafika\projekti\rafgl\include\game_constants.h
+
+1573824592 d:\raf\2019 - 2020\grafika\projekti\rafgl\include\math_3d.h
+	<math.h>
+	<stdio.h>
+
+1576919804 source:d:\grafika - c\3d-graphics\my-projs\making-structure-v11\rafgl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<rafgl.h>
+	<game_constants.h>
+	<main_state.h>
+
+1563893648 d:\grafika - c\3d-graphics\my-projs\making-structure-v11\rafgl\include\glad\glad.h
+	<KHR/khrplatform.h>
+
+1563893648 d:\grafika - c\3d-graphics\my-projs\making-structure-v11\rafgl\include\khr\khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1555373964 d:\grafika - c\3d-graphics\my-projs\making-structure-v11\rafgl\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<vulkan/vulkan.h>
+
+1577144550 d:\grafika - c\3d-graphics\my-projs\making-structure-v11\rafgl\include\rafgl.h
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<stb_image.h>
+	<rafgl_keys.h>
+	<math_3d.h>
+	<stb_image.h>
+	<stb_image_write.h>
+
+1569767632 d:\grafika - c\3d-graphics\my-projs\making-structure-v11\rafgl\include\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1569778158 d:\grafika - c\3d-graphics\my-projs\making-structure-v11\rafgl\include\rafgl_keys.h
+
+1573824594 d:\grafika - c\3d-graphics\my-projs\making-structure-v11\rafgl\include\math_3d.h
+	<math.h>
+	<stdio.h>
+
+1571528414 d:\grafika - c\3d-graphics\my-projs\making-structure-v11\rafgl\include\stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1577266882 d:\grafika - c\3d-graphics\my-projs\making-structure-v11\rafgl\include\game_constants.h
+
+1572832676 d:\grafika - c\3d-graphics\my-projs\making-structure-v11\rafgl\include\main_state.h
+	<GLFW/glfw3.h>
+	<rafgl.h>
+
+1563893648 source:d:\grafika - c\3d-graphics\my-projs\making-structure-v11\rafgl\src\glad\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1577264757 source:d:\grafika - c\3d-graphics\my-projs\making-structure-v11\rafgl\src\game\camera.c
+	<galactic/camera.h>
+	<stdio.h>
+	<stdlib.h>
+	<rafgl.h>
+	<math.h>
+
+1576919597 d:\grafika - c\3d-graphics\my-projs\making-structure-v11\rafgl\include\galactic\camera.h
+	<rafgl.h>
+	<galactic/cursor.h>
+
+1576919603 d:\grafika - c\3d-graphics\my-projs\making-structure-v11\rafgl\include\galactic\cursor.h
+
+1576919622 source:d:\grafika - c\3d-graphics\my-projs\making-structure-v11\rafgl\src\game\cursor.c
+	<galactic/cursor.h>
+
+1577278831 source:d:\grafika - c\3d-graphics\my-projs\making-structure-v11\rafgl\src\main_state.c
+	<main_state.h>
+	<glad/glad.h>
+	<math.h>
+	<game_constants.h>
+	<rafgl.h>
+	<galactic/renderer.h>
+	<galactic/terrain.h>
+	<galactic/camera.h>
+	<galactic/cursor.h>
+	<galactic/entity.h>
+	<galactic/shader.h>
+	<galactic/light.h>
+
+1576930663 source:d:\grafika - c\3d-graphics\my-projs\making-structure-v11\rafgl\src\game\light.c
+	<galactic/light.h>
+	<rafgl.h>
+
+1576930222 d:\grafika - c\3d-graphics\my-projs\making-structure-v11\rafgl\include\galactic\light.h
+	<rafgl.h>
+
+1577267498 source:d:\grafika - c\3d-graphics\my-projs\making-structure-v11\rafgl\src\game\entity.c
+	<galactic/entity.h>
+	<math_3d.h>
+	<rafgl.h>
+
+1577267478 d:\grafika - c\3d-graphics\my-projs\making-structure-v11\rafgl\include\galactic\entity.h
+	<rafgl.h>
+	<galactic/shader.h>
+
+1577098656 source:d:\grafika - c\3d-graphics\my-projs\making-structure-v11\rafgl\src\game\test.c
+
+1576919804 source:e:\galactic\3d\making-structure-v11\rafgl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<rafgl.h>
+	<game_constants.h>
+	<main_state.h>
+
+1563893648 e:\galactic\3d\making-structure-v11\rafgl\include\glad\glad.h
+	<KHR/khrplatform.h>
+
+1563893648 e:\galactic\3d\making-structure-v11\rafgl\include\khr\khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1555373964 e:\galactic\3d\making-structure-v11\rafgl\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<vulkan/vulkan.h>
+
+1577125795 e:\galactic\3d\making-structure-v11\rafgl\include\rafgl.h
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<stb_image.h>
+	<rafgl_keys.h>
+	<math_3d.h>
+	<stb_image.h>
+	<stb_image_write.h>
+
+1569767632 e:\galactic\3d\making-structure-v11\rafgl\include\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1569778158 e:\galactic\3d\making-structure-v11\rafgl\include\rafgl_keys.h
+
+1573824594 e:\galactic\3d\making-structure-v11\rafgl\include\math_3d.h
+	<math.h>
+	<stdio.h>
+
+1571528414 e:\galactic\3d\making-structure-v11\rafgl\include\stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1576955741 e:\galactic\3d\making-structure-v11\rafgl\include\game_constants.h
+
+1572832676 e:\galactic\3d\making-structure-v11\rafgl\include\main_state.h
+	<GLFW/glfw3.h>
+	<rafgl.h>
+
+1577122833 source:e:\galactic\3d\making-structure-v11\rafgl\src\game\camera.c
+	<galactic/camera.h>
+	<stdio.h>
+	<stdlib.h>
+	<rafgl.h>
+	<math.h>
+
+1576919597 e:\galactic\3d\making-structure-v11\rafgl\include\galactic\camera.h
+	<rafgl.h>
+	<galactic/cursor.h>
+
+1576919603 e:\galactic\3d\making-structure-v11\rafgl\include\galactic\cursor.h
+
+1576919622 source:e:\galactic\3d\making-structure-v11\rafgl\src\game\cursor.c
+	<galactic/cursor.h>
+
+1576955647 source:e:\galactic\3d\making-structure-v11\rafgl\src\game\entity.c
+	<galactic/entity.h>
+	<math_3d.h>
+	<rafgl.h>
+
+1577125575 e:\galactic\3d\making-structure-v11\rafgl\include\galactic\entity.h
+	<rafgl.h>
+
+1576930663 source:e:\galactic\3d\making-structure-v11\rafgl\src\game\light.c
+	<galactic/light.h>
+	<rafgl.h>
+
+1576930222 e:\galactic\3d\making-structure-v11\rafgl\include\galactic\light.h
+	<rafgl.h>
+
+1577118228 source:e:\galactic\3d\making-structure-v11\rafgl\src\game\shader.c
+	<galactic/shader.h>
+	<galactic/camera.h>
+	<galactic/light.h>
+	<rafgl.h>
+
+1563893648 source:e:\galactic\3d\making-structure-v11\rafgl\src\glad\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1577127178 source:e:\galactic\3d\making-structure-v11\rafgl\src\main_state.c
+	<main_state.h>
+	<glad/glad.h>
+	<math.h>
+	<game_constants.h>
+	<rafgl.h>
+	<galactic/renderer.h>
+	<galactic/terrain.h>
+	<galactic/camera.h>
+	<galactic/cursor.h>
+	<galactic/entity.h>
+	<galactic/shader.h>
+	<galactic/light.h>
+
+1577118256 e:\galactic\3d\making-structure-v11\rafgl\include\galactic\shader.h
+	<rafgl.h>
+	<galactic/camera.h>
+	<galactic/light.h>
+
+1577119933 e:\galactic\3d\making-structure-v11\rafgl\include\galactic\renderer.h
+	<rafgl.h>
+	<galactic/camera.h>
+	<galactic/entity.h>
+	<galactic/light.h>
+	<galactic/shader.h>
+	<galactic/cursor.h>
+
+1577124437 source:e:\galactic\3d\making-structure-v11\rafgl\src\game\renderer.c
+	<galactic/renderer.h>
+	<galactic/camera.h>
+	<galactic/entity.h>
+	<galactic/light.h>
+	<galactic/shader.h>
+	<galactic/cursor.h>
+	<rafgl.h>
+
+1577127503 source:e:\galactic\3d\making-structure-v11\rafgl\src\game\terrain.c
+	<galactic/terrain.h>
+	<rafgl.h>
+
+1577128143 e:\galactic\3d\making-structure-v11\rafgl\include\galactic\terrain.h
+	<rafgl.h>
+
+1577276693 source:d:\grafika - c\3d-graphics\my-projs\making-structure-v11\rafgl\src\game\renderer.c
+	<galactic/renderer.h>
+	<galactic/camera.h>
+	<galactic/entity.h>
+	<galactic/light.h>
+	<galactic/shader.h>
+	<galactic/cursor.h>
+	<rafgl.h>
+
+1577268810 d:\grafika - c\3d-graphics\my-projs\making-structure-v11\rafgl\include\galactic\renderer.h
+	<galactic/terrain.h>
+	<galactic/camera.h>
+	<galactic/entity.h>
+	<galactic/shader.h>
+	<galactic/cursor.h>
+	<galactic/light.h>
+	<rafgl.h>
+
+1577267561 d:\grafika - c\3d-graphics\my-projs\making-structure-v11\rafgl\include\galactic\shader.h
+	<rafgl.h>
+	<galactic/camera.h>
+	<galactic/light.h>
+
+1577267547 source:d:\grafika - c\3d-graphics\my-projs\making-structure-v11\rafgl\src\game\shader.c
+	<galactic/shader.h>
+	<galactic/camera.h>
+	<galactic/light.h>
+	<rafgl.h>
+
+1577275472 d:\grafika - c\3d-graphics\my-projs\making-structure-v11\rafgl\include\galactic\terrain.h
+	<rafgl.h>
+
+1577279059 source:d:\grafika - c\3d-graphics\my-projs\making-structure-v11\rafgl\src\game\terrain.c
+	<galactic/terrain.h>
+	<rafgl.h>
+
+1578424354 source:d:\grafika - c\3d-graphics\my-projs\making_sructure_current\rafgl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<rafgl.h>
+	<game_constants.h>
+	<main_state.h>
+
+1563893648 d:\grafika - c\3d-graphics\my-projs\making_sructure_current\rafgl\include\glad\glad.h
+	<KHR/khrplatform.h>
+
+1563893648 d:\grafika - c\3d-graphics\my-projs\making_sructure_current\rafgl\include\khr\khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1555373964 d:\grafika - c\3d-graphics\my-projs\making_sructure_current\rafgl\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<vulkan/vulkan.h>
+
+1578406273 d:\grafika - c\3d-graphics\my-projs\making_sructure_current\rafgl\include\rafgl.h
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<stb_image.h>
+	<rafgl_keys.h>
+	<math_3d.h>
+	<stb_image.h>
+	<stb_image_write.h>
+
+1569767632 d:\grafika - c\3d-graphics\my-projs\making_sructure_current\rafgl\include\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1569778158 d:\grafika - c\3d-graphics\my-projs\making_sructure_current\rafgl\include\rafgl_keys.h
+
+1573824594 d:\grafika - c\3d-graphics\my-projs\making_sructure_current\rafgl\include\math_3d.h
+	<math.h>
+	<stdio.h>
+
+1571528414 d:\grafika - c\3d-graphics\my-projs\making_sructure_current\rafgl\include\stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1578487468 d:\grafika - c\3d-graphics\my-projs\making_sructure_current\rafgl\include\game_constants.h
+
+1572832676 d:\grafika - c\3d-graphics\my-projs\making_sructure_current\rafgl\include\main_state.h
+	<GLFW/glfw3.h>
+	<rafgl.h>
+
+1578398700 source:d:\grafika - c\3d-graphics\my-projs\making_sructure_current\rafgl\src\game\camera.c
+	<galactic/camera.h>
+	<game_constants.h>
+	<stdio.h>
+	<stdlib.h>
+	<rafgl.h>
+	<math.h>
+
+1578351611 d:\grafika - c\3d-graphics\my-projs\making_sructure_current\rafgl\include\galactic\camera.h
+	<rafgl.h>
+	<galactic/cursor.h>
+
+1576919603 d:\grafika - c\3d-graphics\my-projs\making_sructure_current\rafgl\include\galactic\cursor.h
+
+1576919622 source:d:\grafika - c\3d-graphics\my-projs\making_sructure_current\rafgl\src\game\cursor.c
+	<galactic/cursor.h>
+
+1577368499 source:d:\grafika - c\3d-graphics\my-projs\making_sructure_current\rafgl\src\game\entity.c
+	<galactic/entity.h>
+	<math_3d.h>
+	<rafgl.h>
+
+1577365424 d:\grafika - c\3d-graphics\my-projs\making_sructure_current\rafgl\include\galactic\entity.h
+	<rafgl.h>
+	<galactic/shader.h>
+
+1578402984 d:\grafika - c\3d-graphics\my-projs\making_sructure_current\rafgl\include\galactic\shader.h
+	<rafgl.h>
+	<galactic/camera.h>
+	<galactic/light.h>
+
+1576930222 d:\grafika - c\3d-graphics\my-projs\making_sructure_current\rafgl\include\galactic\light.h
+	<rafgl.h>
+
+1577304649 source:d:\grafika - c\3d-graphics\my-projs\making_sructure_current\rafgl\src\game\light.c
+	<galactic/light.h>
+	<rafgl.h>
+
+1578409885 source:d:\grafika - c\3d-graphics\my-projs\making_sructure_current\rafgl\src\game\renderer.c
+	<galactic/renderer.h>
+	<galactic/camera.h>
+	<galactic/entity.h>
+	<galactic/shader.h>
+	<galactic/cursor.h>
+	<galactic/loader.h>
+	<galactic/light.h>
+	<game_constants.h>
+	<rafgl.h>
+
+1578403025 d:\grafika - c\3d-graphics\my-projs\making_sructure_current\rafgl\include\galactic\renderer.h
+	<galactic/terrain.h>
+	<galactic/camera.h>
+	<galactic/entity.h>
+	<galactic/shader.h>
+	<galactic/cursor.h>
+	<galactic/light.h>
+	<galactic/water.h>
+	<rafgl.h>
+
+1577370019 d:\grafika - c\3d-graphics\my-projs\making_sructure_current\rafgl\include\galactic\terrain.h
+	<rafgl.h>
+	<galactic/texture.h>
+
+1578402994 source:d:\grafika - c\3d-graphics\my-projs\making_sructure_current\rafgl\src\game\shader.c
+	<galactic/shader.h>
+	<galactic/camera.h>
+	<galactic/entity.h>
+	<galactic/light.h>
+	<game_constants.h>
+	<rafgl.h>
+
+1578441400 source:d:\grafika - c\3d-graphics\my-projs\making_sructure_current\rafgl\src\game\terrain.c
+	<galactic/terrain.h>
+	<galactic/texture.h>
+	<rafgl.h>
+
+1563893648 source:d:\grafika - c\3d-graphics\my-projs\making_sructure_current\rafgl\src\glad\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1578440623 source:d:\grafika - c\3d-graphics\my-projs\making_sructure_current\rafgl\src\main_state.c
+	<main_state.h>
+	<glad/glad.h>
+	<math.h>
+	<game_constants.h>
+	<rafgl.h>
+	<galactic/renderer.h>
+	<galactic/terrain.h>
+	<galactic/texture.h>
+	<galactic/camera.h>
+	<galactic/cursor.h>
+	<galactic/entity.h>
+	<galactic/shader.h>
+	<galactic/light.h>
+	<galactic/water.h>
+	<galactic/fbo.h>
+
+1577369561 d:\grafika - c\3d-graphics\my-projs\making_sructure_current\rafgl\include\galactic\texture.h
+	<rafgl.h>
+
+1577723529 source:d:\grafika - c\3d-graphics\my-projs\making_sructure_current\rafgl\src\game\texture.c
+	<galactic/texture.h>
+
+1578397522 d:\grafika - c\3d-graphics\my-projs\making_sructure_current\rafgl\include\galactic\loader.h
+	<rafgl.h>
+	<galactic/renderer.h>
+	<galactic/camera.h>
+	<galactic/entity.h>
+	<galactic/shader.h>
+	<galactic/cursor.h>
+	<galactic/light.h>
+	<galactic/water.h>
+
+1578401238 source:d:\grafika - c\3d-graphics\my-projs\making_sructure_current\rafgl\src\game\loader.c
+	<galactic/loader.h>
+	<game_constants.h>
+
+1578441394 source:d:\grafika - c\3d-graphics\my-projs\making_sructure_current\rafgl\src\game\water.c
+	<galactic/water.h>
+	<rafgl.h>
+
+1578436212 d:\grafika - c\3d-graphics\my-projs\making_sructure_current\rafgl\include\galactic\water.h
+	<rafgl.h>
+
+1578400746 source:d:\grafika - c\3d-graphics\my-projs\making_sructure_current\rafgl\src\game\fbo.c
+	<galactic/fbo.h>
+	<game_constants.h>
+	<rafgl.h>
+
+1578351614 d:\grafika - c\3d-graphics\my-projs\making_sructure_current\rafgl\include\galactic\fbo.h
+	<rafgl.h>
+
+1578456756 source:c:\faks\grafika\projekat\making_sructure_current_polywater\rafgl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<rafgl.h>
+	<game_constants.h>
+	<main_state.h>
+
+1563926048 c:\faks\grafika\projekat\making_sructure_current_polywater\rafgl\include\glad\glad.h
+	<KHR/khrplatform.h>
+
+1563926048 c:\faks\grafika\projekat\making_sructure_current_polywater\rafgl\include\khr\khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1555406364 c:\faks\grafika\projekat\making_sructure_current_polywater\rafgl\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<vulkan/vulkan.h>
+
+1578438674 c:\faks\grafika\projekat\making_sructure_current_polywater\rafgl\include\rafgl.h
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<stb_image.h>
+	<rafgl_keys.h>
+	<math_3d.h>
+	<stb_image.h>
+	<stb_image_write.h>
+
+1569800032 c:\faks\grafika\projekat\making_sructure_current_polywater\rafgl\include\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1569810558 c:\faks\grafika\projekat\making_sructure_current_polywater\rafgl\include\rafgl_keys.h
+
+1573856994 c:\faks\grafika\projekat\making_sructure_current_polywater\rafgl\include\math_3d.h
+	<math.h>
+	<stdio.h>
+
+1571560814 c:\faks\grafika\projekat\making_sructure_current_polywater\rafgl\include\stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1578519870 c:\faks\grafika\projekat\making_sructure_current_polywater\rafgl\include\game_constants.h
+
+1572865076 c:\faks\grafika\projekat\making_sructure_current_polywater\rafgl\include\main_state.h
+	<GLFW/glfw3.h>
+	<rafgl.h>
+
+1578431102 source:c:\faks\grafika\projekat\making_sructure_current_polywater\rafgl\src\game\camera.c
+	<galactic/camera.h>
+	<game_constants.h>
+	<stdio.h>
+	<stdlib.h>
+	<rafgl.h>
+	<math.h>
+
+1578384012 c:\faks\grafika\projekat\making_sructure_current_polywater\rafgl\include\galactic\camera.h
+	<rafgl.h>
+	<galactic/cursor.h>
+
+1576952004 c:\faks\grafika\projekat\making_sructure_current_polywater\rafgl\include\galactic\cursor.h
+
+1576952024 source:c:\faks\grafika\projekat\making_sructure_current_polywater\rafgl\src\game\cursor.c
+	<galactic/cursor.h>
+
+1577400900 source:c:\faks\grafika\projekat\making_sructure_current_polywater\rafgl\src\game\entity.c
+	<galactic/entity.h>
+	<math_3d.h>
+	<rafgl.h>
+
+1577397826 c:\faks\grafika\projekat\making_sructure_current_polywater\rafgl\include\galactic\entity.h
+	<rafgl.h>
+	<galactic/shader.h>
+
+1578435386 c:\faks\grafika\projekat\making_sructure_current_polywater\rafgl\include\galactic\shader.h
+	<rafgl.h>
+	<galactic/camera.h>
+	<galactic/light.h>
+
+1576962624 c:\faks\grafika\projekat\making_sructure_current_polywater\rafgl\include\galactic\light.h
+	<rafgl.h>
+
+1578433148 source:c:\faks\grafika\projekat\making_sructure_current_polywater\rafgl\src\game\fbo.c
+	<galactic/fbo.h>
+	<game_constants.h>
+	<rafgl.h>
+
+1578384016 c:\faks\grafika\projekat\making_sructure_current_polywater\rafgl\include\galactic\fbo.h
+	<rafgl.h>
+
+1577337050 source:c:\faks\grafika\projekat\making_sructure_current_polywater\rafgl\src\game\light.c
+	<galactic/light.h>
+	<rafgl.h>
+
+1578433640 source:c:\faks\grafika\projekat\making_sructure_current_polywater\rafgl\src\game\loader.c
+	<galactic/loader.h>
+	<game_constants.h>
+
+1578429924 c:\faks\grafika\projekat\making_sructure_current_polywater\rafgl\include\galactic\loader.h
+	<rafgl.h>
+	<galactic/renderer.h>
+	<galactic/camera.h>
+	<galactic/entity.h>
+	<galactic/shader.h>
+	<galactic/cursor.h>
+	<galactic/light.h>
+	<galactic/water.h>
+
+1578435426 c:\faks\grafika\projekat\making_sructure_current_polywater\rafgl\include\galactic\renderer.h
+	<galactic/terrain.h>
+	<galactic/camera.h>
+	<galactic/entity.h>
+	<galactic/shader.h>
+	<galactic/cursor.h>
+	<galactic/light.h>
+	<galactic/water.h>
+	<rafgl.h>
+
+1577402420 c:\faks\grafika\projekat\making_sructure_current_polywater\rafgl\include\galactic\terrain.h
+	<rafgl.h>
+	<galactic/texture.h>
+
+1577401962 c:\faks\grafika\projekat\making_sructure_current_polywater\rafgl\include\galactic\texture.h
+	<rafgl.h>
+
+1578468614 c:\faks\grafika\projekat\making_sructure_current_polywater\rafgl\include\galactic\water.h
+	<rafgl.h>
+
+1578442286 source:c:\faks\grafika\projekat\making_sructure_current_polywater\rafgl\src\game\renderer.c
+	<galactic/renderer.h>
+	<galactic/camera.h>
+	<galactic/entity.h>
+	<galactic/shader.h>
+	<galactic/cursor.h>
+	<galactic/loader.h>
+	<galactic/light.h>
+	<game_constants.h>
+	<rafgl.h>
+
+1578435396 source:c:\faks\grafika\projekat\making_sructure_current_polywater\rafgl\src\game\shader.c
+	<galactic/shader.h>
+	<galactic/camera.h>
+	<galactic/entity.h>
+	<galactic/light.h>
+	<game_constants.h>
+	<rafgl.h>
+
+1578540617 source:c:\faks\grafika\projekat\making_sructure_current_polywater\rafgl\src\game\terrain.c
+	<galactic/terrain.h>
+	<galactic/texture.h>
+	<rafgl.h>
+
+1577755930 source:c:\faks\grafika\projekat\making_sructure_current_polywater\rafgl\src\game\texture.c
+	<galactic/texture.h>
+
+1578547700 source:c:\faks\grafika\projekat\making_sructure_current_polywater\rafgl\src\game\water.c
+	<galactic/water.h>
+	<rafgl.h>
+
+1563926048 source:c:\faks\grafika\projekat\making_sructure_current_polywater\rafgl\src\glad\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1578547673 source:c:\faks\grafika\projekat\making_sructure_current_polywater\rafgl\src\main_state.c
+	<main_state.h>
+	<glad/glad.h>
+	<math.h>
+	<game_constants.h>
+	<rafgl.h>
+	<galactic/renderer.h>
+	<galactic/terrain.h>
+	<galactic/texture.h>
+	<galactic/camera.h>
+	<galactic/cursor.h>
+	<galactic/entity.h>
+	<galactic/shader.h>
+	<galactic/light.h>
+	<galactic/water.h>
+	<galactic/fbo.h>
+
+1578456756 source:d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<rafgl.h>
+	<game_constants.h>
+	<main_state.h>
+
+1563926048 d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\include\glad\glad.h
+	<KHR/khrplatform.h>
+
+1563926048 d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\include\khr\khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1555406364 d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<vulkan/vulkan.h>
+
+1578438674 d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\include\rafgl.h
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<stb_image.h>
+	<rafgl_keys.h>
+	<math_3d.h>
+	<stb_image.h>
+	<stb_image_write.h>
+
+1569800032 d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\include\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1569810558 d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\include\rafgl_keys.h
+
+1573856994 d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\include\math_3d.h
+	<math.h>
+	<stdio.h>
+
+1571560814 d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\include\stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1578862964 d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\include\game_constants.h
+
+1572865076 d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\include\main_state.h
+	<GLFW/glfw3.h>
+	<rafgl.h>
+
+1578431102 source:d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\src\game\camera.c
+	<galactic/camera.h>
+	<game_constants.h>
+	<stdio.h>
+	<stdlib.h>
+	<rafgl.h>
+	<math.h>
+
+1578384012 d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\include\galactic\camera.h
+	<rafgl.h>
+	<galactic/cursor.h>
+
+1576952004 d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\include\galactic\cursor.h
+
+1576952024 source:d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\src\game\cursor.c
+	<galactic/cursor.h>
+
+1578833437 source:d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\src\game\entity.c
+	<galactic/entity.h>
+	<math_3d.h>
+	<rafgl.h>
+
+1577397826 d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\include\galactic\entity.h
+	<rafgl.h>
+	<galactic/shader.h>
+
+1578664392 d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\include\galactic\shader.h
+	<rafgl.h>
+	<galactic/camera.h>
+	<galactic/light.h>
+
+1576962624 d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\include\galactic\light.h
+	<rafgl.h>
+
+1578433148 source:d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\src\game\fbo.c
+	<galactic/fbo.h>
+	<game_constants.h>
+	<rafgl.h>
+
+1578384016 d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\include\galactic\fbo.h
+	<rafgl.h>
+
+1577337050 source:d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\src\game\light.c
+	<galactic/light.h>
+	<rafgl.h>
+
+1578433640 source:d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\src\game\loader.c
+	<galactic/loader.h>
+	<game_constants.h>
+
+1578429924 d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\include\galactic\loader.h
+	<rafgl.h>
+	<galactic/renderer.h>
+	<galactic/camera.h>
+	<galactic/entity.h>
+	<galactic/shader.h>
+	<galactic/cursor.h>
+	<galactic/light.h>
+	<galactic/water.h>
+
+1578664353 d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\include\galactic\renderer.h
+	<galactic/terrain.h>
+	<galactic/camera.h>
+	<galactic/entity.h>
+	<galactic/shader.h>
+	<galactic/cursor.h>
+	<galactic/light.h>
+	<galactic/water.h>
+	<rafgl.h>
+
+1577402420 d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\include\galactic\terrain.h
+	<rafgl.h>
+	<galactic/texture.h>
+
+1577401962 d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\include\galactic\texture.h
+	<rafgl.h>
+
+1578664745 d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\include\galactic\water.h
+	<rafgl.h>
+
+1578664429 source:d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\src\game\renderer.c
+	<galactic/renderer.h>
+	<galactic/camera.h>
+	<galactic/entity.h>
+	<galactic/shader.h>
+	<galactic/cursor.h>
+	<galactic/loader.h>
+	<galactic/light.h>
+	<game_constants.h>
+	<rafgl.h>
+
+1578664403 source:d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\src\game\shader.c
+	<galactic/shader.h>
+	<galactic/camera.h>
+	<galactic/entity.h>
+	<galactic/light.h>
+	<game_constants.h>
+	<rafgl.h>
+
+1578540617 source:d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\src\game\terrain.c
+	<galactic/terrain.h>
+	<galactic/texture.h>
+	<rafgl.h>
+
+1577755930 source:d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\src\game\texture.c
+	<galactic/texture.h>
+
+1578863383 source:d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\src\game\water.c
+	<galactic/water.h>
+	<game_constants.h>
+	<rafgl.h>
+
+1563926048 source:d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\src\glad\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1578863282 source:d:\grafika - c\3d-graphics\my-projs\making_sructure_current_linear_and_poly\rafgl\src\main_state.c
+	<main_state.h>
+	<glad/glad.h>
+	<math.h>
+	<game_constants.h>
+	<rafgl.h>
+	<galactic/renderer.h>
+	<galactic/terrain.h>
+	<galactic/texture.h>
+	<galactic/camera.h>
+	<galactic/cursor.h>
+	<galactic/entity.h>
+	<galactic/shader.h>
+	<galactic/light.h>
+	<galactic/water.h>
+	<galactic/fbo.h>
+
