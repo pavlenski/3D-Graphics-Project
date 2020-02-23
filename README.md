@@ -11,13 +11,10 @@ This is how it looks from a distance when everything above is combined.
 ### Linear water
 
 <p>
-heightnap
+Math turns up being really cool
 <img align="right" src = "https://github.com/pavlenski/3D-Graphics-Project/blob/master/RAFGL/res/screens/linear_water.png" height="256" width="256">
 
 
-maybe its just a bug but io dont see ti
-maybe its just a bug but io dont see ti
-maybe its just a bug but io dont see timaybe its just a bug but io dont see timaybe its just a bug but io dont see tiimaybe its just a bug
-</p>
+The water waves are repeatedly respawning with a silly mathematical formula.</p>
 
 but io dont see timaybe its just a bug but io dont see tiimaybe its just a bug but io dont see timaybe its just a bug but io dont see tiimaybe its just a bug but io dont see timaybe its just a bug but io dont see tiimaybe its just a bug but io dont see timaybe its just a bug but io dont see ti
